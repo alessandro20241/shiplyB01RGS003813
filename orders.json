@@ -1,0 +1,43 @@
+{
+  "B01RGS003813": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Weber Yves, Oberstwies 39, 66663 Merzig-Harlingen, Deutschland",
+    "price": "10.900 €",
+    "description": "Hersteller: BMW <br>Typ: R 1250 GS <br> Fahrgestelnummer: 5HD1TEHC9JB954363 <br> Erstzulassung: 03/2023 <br> TÜV: 02/2027 <br> KM laut Vorbesitzer: 31.523 km <br> Leistung: 136 PS (100 kW) <br> Hubraum: 1.254 cm³ <br> VTR Customs BMW R 1250 GS — Supermoto-Umbau. Viele Extras. Paket: Dynamik, Komfort, Touren <br> Alle Originalteile vorhanden. <br> Fahrzeug ist makellos. <br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall. <br> Bezitser 2 <br> Deutsch Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Weber Yves<br> Oberstwies 39<br> 66663 Merzig-Harlingen<br>Deutschland<br>Telefon: +352 691658340",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "01-10-2026",
+    "deliveryDate": "02-10-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Oberstwies 39",
+      "postal_code": "66663",
+      "city": "Merzig-Harlingen",
+      "country": "Deutschland"
+    }
+  }
+}
